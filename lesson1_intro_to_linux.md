@@ -41,7 +41,7 @@ This command destroys your virtual machine. Your work is not saved, the machine 
   * usr - user programs.
   
 ## Understanding $PATH
-* $PATH - the diredctories Linux will progress through and looking for a binary when you just type the name of it.
+* $PATH - the directories Linux will progress through and looking for a binary when you just type the name of it.
 * Update $PATH: <http://askubuntu.com/questions/60218/how-to-add-a-directory-to-my-path>
   
   
